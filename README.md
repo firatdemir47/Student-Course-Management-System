@@ -48,7 +48,7 @@ Bu proje, bir **Öğrenci ve Ders Yönetim Sistemi** uygulamasıdır. Öğrencil
 
 ## Uygulama Arayüzü
 
-![Öğrenci ve Ders Yönetim Sistemi Arayüzü](https://github.com/firatdemir47/Student-Course-Management-System/raw/main/Arayüz.png)
+![Öğrenci ve Ders Yönetim Sistemi Arayüzü](https://github.com/firatdemir47/Student-Course-Management-System/blob/23c9a8bb840e2ce407b5644bb734a2ef1f2491fa/Arayu%CC%88z.png)
 
 
 ## Katkı
