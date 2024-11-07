@@ -48,7 +48,7 @@ Bu proje, bir **Öğrenci ve Ders Yönetim Sistemi** uygulamasıdır. Öğrencil
 
 ## Uygulama Arayüzü
 
-![Öğrenci ve Ders Yönetim Sistemi Arayüzü](screenshots/screenshot.png)
+![Öğrenci ve Ders Yönetim Sistemi Arayüzü](Arayüz.png)
 
 ## Katkı
 
